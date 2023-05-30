@@ -1,4 +1,4 @@
-# Demo App for Lesson 9 GeekBrains
+# Flask-COMBO-JSONAPI Lesson 9-10 GeekBrains
 
 ## Install 
 1. Create new virtual env
